@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "Title": "Blog number 2",
+      "author": "Asaf",
+      "id": 1,
+      "body": "Strawberry"
+    },
+    {
+      "Title": "Blog number 3",
+      "author": "Asef",
+      "id": 2,
+      "body": "Avocado"
+    },
+    {
+      "title": "Potatoes",
+      "author": "Asif",
+      "body": "Hellooooooooooooooooooooooo",
+      "id": 3
+    }
+  ]
+}
