@@ -17,7 +17,7 @@ export default function NewBlog() {
             body: JSON.stringify(Blog)
         }).then(() => {
             setIsPending(!isPending);
-            console.log('New Blog added');
+            
             history.push('/');
         })
         }
